@@ -6,7 +6,7 @@ import starlightTypeDoc, { typeDocSidebarGroup } from 'starlight-typedoc'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://algorandfoundation.github.io',
+  site: 'https://lempira.github.io',
   base: '/algorand-typescript/',
   markdown: {
     remarkPlugins: [remarkGithubAlerts],
